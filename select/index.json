@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "異常な音を出すガール",
+  "base_artist": "cosMo＠暴走P",
+  "createdAt": "2026-02-12T15:40:17.045081Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "異常な音を出すガール—Noisy Crazy Girl",
+      "artist": "cosMo@暴走P—cosMo@Bousou-P\\\\音街ウナ—Otomachi Una",
+      "has_synced": true,
+      "path": "select/01_異常な音を出すガール—Noisy_Crazy_Girl_cosMo@暴走P—cosMo@Bousou-P_音街ウナ—Otomachi_Una.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "異常な音を出すガール (feat. 音街ウナ)",
+      "artist": "cosMo@暴走P",
+      "has_synced": false,
+      "path": "select/pl_01_異常な音を出すガール_(feat._音街ウナ)_cosMo@暴走P.txt"
+    }
+  ]
+}
